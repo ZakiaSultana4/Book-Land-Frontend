@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-[Click here to visit the live application](https://book-bliss-alpha.vercel.app)
+[Click here to visit the live application](https://booklandclient.vercel.app/)
 
 ---
 
